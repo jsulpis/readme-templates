@@ -54,7 +54,7 @@ some code
 
 The product if eventually installed and configured, so show some usage examples to test the product. Provide step by step instructions and / or screenshots.
 
-### Backlog
+## Backlog
 
 If it is a WIP, show the features that are still to be implemented (this might attract some pull requests !)
 
@@ -62,7 +62,7 @@ If it is a WIP, show the features that are still to be implemented (this might a
 * [x] ~~feature 2~~
 * [x] ~~feature 1~~
 
-### Contributing
+## Contributing
 
 If you accept contribution, explain how people can submit their code.
 
@@ -73,6 +73,6 @@ If you accept contribution, explain how people can submit their code.
 5.  Push your branch (`git push origin feature/awesomeFeature`)
 6.  Open a new Pull Request
 
-### License
+## License
 
 A short snippet describing the license (MIT, Apache, etc.). Put a link to the LICENSE file in your repository.
