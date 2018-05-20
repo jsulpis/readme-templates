@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jsulpis/readme-templates/screenshot.jpg" alt="ScreenShot image"/>
+  <img src="https://github.com/jsulpis/readme-templates/blob/master/screenshot.jpg?raw=true" alt="ScreenShot image"/>
 </p>
 
 ## Introduction
@@ -27,7 +27,7 @@ You can add more screenshots in this section if it is relevant.
 
 ## Installation
 
-Once you convinced people to get your product, provide Installation instructions. This should be pretty quick in case of an end user product, which should be already packaged and ready to use.
+Once you have convinced people to get your product, provide installation instructions. This should be pretty quick in case of an end user product, which should be already packaged and ready to use.
 
 If needed, provide links and / or sample code that shows exactly what people need to type into their shell to install your software, and do this for all platforms if there is a difference between them.
 
