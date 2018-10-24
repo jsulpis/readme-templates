@@ -1,7 +1,12 @@
-# Readme Templates
+<h1 align="center">Readme Templates</h1>
 
-Some readme templates to reuse for your projects.
+<h3 align="center">For your open-source projects.</h>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsulpis/readme-templates/master/preview.png" alt="preview image"/>
+</p>
+
+## Categories
 * **End user product:** this template describes a ready to use product. It includes the features, intallation instructions, configuration, usage examples, screenshots, backlog, contribution instructions and license.
 * **Developer tool:** this template describes a tool which can be used by developers to make other products. It includes the features, intallation instructions with requirements, configuration, usage (development / deployment), screenshots, backlog, contribution instructions and license.
 
