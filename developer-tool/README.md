@@ -1,6 +1,6 @@
 <h1 align="center"> Product Name</h1>
 
-<h3 align="center">A Short description of your product</h>
+<h3 align="center">A Short description of your product</h3>
 <p align="center">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)

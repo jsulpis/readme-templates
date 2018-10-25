@@ -1,6 +1,6 @@
 <h1 align="center">Readme Templates</h1>
 
-<h3 align="center">For your open-source projects.</h>
+<h3 align="center">For your open-source projects.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsulpis/readme-templates/master/preview.png" alt="preview image"/>
